@@ -1,0 +1,9 @@
+*{
+    margin: 0%;
+    padding: 0px;
+}
+div{
+    padding: 30px;
+    border:10px black solid;
+    background-color: cornflowerblue;
+}
